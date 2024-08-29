@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "FrequencyDictionary": {
+      "commandName": "Project",
+      "commandLineArgs": "huge_book.txt out.txt",
+      "nativeDebugging": false
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
